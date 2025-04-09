@@ -11,29 +11,29 @@ To compare engagement dynamics across Instagram and LinkedIn.
 ## 🛠️ Methodology
 The analysis involves:
 
-1. Data Preparation
+#### 1. Data Preparation
 
-Preprocessing engagement metrics and post attributes.
+1. Preprocessing engagement metrics and post attributes.
 
-Feature engineering for causal modeling.
+2. Feature engineering for causal modeling.
 
-2. Causal Inference Techniques
+#### 2. Causal Inference Techniques
 
-Causal Graphs using DoWhy.
+1. Causal Graphs using DoWhy.
 
-Double Machine Learning (DML) from EconML.
+2. Double Machine Learning (DML) from EconML.
 
-Treatment Effect Estimation to quantify impact of variables.
+3. Treatment Effect Estimation to quantify impact of variables.
 
-3. Key Metrics Analyzed
+#### 3. Key Metrics Analyzed
 
-Likes, Comments, Shares, Impressions.
+1. Likes, Comments, Shares, Impressions.
 
-Post timing, content type, hashtag count.
+2. Post timing, content type, hashtag count.
 
-4. Assumptions
+#### 4. Assumptions
 
-Causal sufficiency and correct model specification were assumed during estimation.
+1. Causal sufficiency and correct model specification were assumed during estimation.
 
 ## 📈 Key Insights
 #### Instagram:
